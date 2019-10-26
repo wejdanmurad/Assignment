@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Assignment-1</string>
+    <string name="edit_profile">Edit Profile</string>
+    <string name="Chang_photo">Change your profile photo</string>
+    <string name="done">Done</string>
+    <string name="profile">Profile</string>
+    <string name="lanc">Lance Bogrol</string>
+    <string name="lancebogrol">LanceBogrol</string>
+    <string name="yourdomain">http://yourDomain.com</string>
+    <string name="blabla">phasellius fermentum congue imperdiet</string>
+    <string name="classified">Classified Information</string>
+    <string name="email">name@yourDomain.com</string>
+    <string name="number">123 4567890</string>
+    <string name="gender">Female</string>
+    <string name="save">Save</string>
+    <string name="yourprofile">Your Profile</string>
+    <string name="charge">40% Completed</string>
+    <string name="dr">Dr. Sherley</string>
+    <string name="abraham">Abraham</string>
+    <string name="mob">Mobile Number</string>
+    <string name="num">+ 899 5885 3902</string>
+    <string name="emailId">Email ID</string>
+    <string name="enteremail">Enter Email</string>
+    <string name="gender2">Gender</string>
+    <string name="select">select</string>
+    <string name="dob">Date of Birth</string>
+    <string name="DOB">mm/dd/yyyy</string>
+    <string name="experiance">Experience</string>
+    <string name="add">+add</string>
+    <string name="emergency">Emergency Contact</string>
+    <string name="adddetail">add detail</string>
+    <string name="locatio">Location</string>
+    <string name="china">Hong Kong, China</string>
+</resources>
